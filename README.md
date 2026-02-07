@@ -47,6 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Springboot" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql-inc.svg" alt="Springboot" width="40" height="40"/>
   
 </p>
 
