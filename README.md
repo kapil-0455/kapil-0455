@@ -6,17 +6,15 @@
 
 ### 🌟 About Me
 
-🎓 I'm Mayank Garg, a passionate developer and creator focused on building modern, responsive, and functional digital experiences.  
-💻 I love exploring new tech, especially web & IoT fusion, and enjoy turning ideas into real-world projects.  
+🎓 I'm Kapil, a passionate developer and creator focused on building modern, responsive, and functional digital experiences.  
+💻 I love exploring new tech and enjoy turning ideas into real-world projects.  
 🌍 I believe in collaboration, open-source, and continuous growth.
 
 ---
 
 ### 🔥 What I’m Up To
-
-- 🔭 Working on **eGovFix** – A centralized portal for updating government documents
-- 🌱 Learning **React Native**, **Databases**, and exploring **Data Analytics**
-- 🤝 Looking to collaborate on **Game Dev & Open Source**
+- 🌱 Learning **React Native**, **Databases**.
+- 🤝 Looking to collaborate on ** Open Source**
 - 💬 Ask me about **JavaScript**, **Node.js**, **Java**, **ESP32**
 - 🚀 Exploring **DevOps**, **CI/CD**, and backend scalability
 - ⚡ Fun fact: _I'm chill by nature, but serious about code._
@@ -26,8 +24,8 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:mgsm4343@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mayankgarg" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kapil0455cu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kapilkumar0455/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- Add other links like Twitter, Portfolio if available -->
 </p>
 
@@ -53,32 +51,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankgarg4343&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankgarg4343&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayankgarg4343&theme=monokai&no-frame=true&title=MultiLanguage,Commits,Repositories,Followers,Stars" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgarg4343&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🧠 Fun Projects & Areas I Explore
 
-- ESP32-CAM 🛻 + WebSockets for live-controlled Wi-Fi Car  
+- ESP32-CAM  + face recognization system 
 - Fullstack Inventory System using **Java + Gson + JSON**  
 - Web Apps with **React**, **TailwindCSS**, and **Node.js**  
-- Automation scripts using **Linux**, **Bash**, and **Python**
+
 
 ---
 
