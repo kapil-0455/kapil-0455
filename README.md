@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kapil</h1>
-<h3 align="center">🚀 A Fullstack Developer[MERN] | JAVA  | 🎮 Gamer | 💡 Tech Explorer | 🇮🇳 From India</h3>
+<h3 align="center">🚀 A Fullstack Developer | JAVA  | 🎮 Gamer | 💡 Tech Explorer | 🇮🇳 From India</h3>
 
 
 ---
